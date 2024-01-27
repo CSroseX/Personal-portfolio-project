@@ -1,0 +1,9 @@
+//FRONT-END 
+-> change the hamburgur dropdown color and effect
+-> hover more properties
+-> projects/3-containers going out of the box
+
+//BACK-END
+-> Dark mode
+-> Functionality : links not working, like home, contact, Projects, Conatct mode
+-> Responsiveness 
