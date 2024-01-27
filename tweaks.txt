@@ -2,6 +2,7 @@
 -> change the hamburgur dropdown color and effect
 -> hover more properties
 -> projects/3-containers going out of the box
+-> Parallax effect
 
 //BACK-END
 -> Dark mode
